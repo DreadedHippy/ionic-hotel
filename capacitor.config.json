@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "hotel-management",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
